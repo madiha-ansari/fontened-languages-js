@@ -30,3 +30,22 @@
 
 // var myName = "hello"  //are Legal 
 // var alert             // are Illegal 
+
+
+// ch no 5
+// Math expressions:
+// Familiar operators
+// var popularNumber = 4
+// console.log(popularNumber);
+// console.log(typeof(popularNumber)); // num
+
+// var popularNumber = 2 + 2;
+// console.log(typeof(popularNumber));   //num
+
+// ager ik num or ik string raha ga to typeof ma string ai ga 
+// var popularNumber = 2 + "2";
+// console.log(typeof(popularNumber));  //string
+
+// subtraction
+var popularNumber = 12 - 24;
+console.log(popularNumber);
