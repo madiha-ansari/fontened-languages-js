@@ -43,9 +43,28 @@
 // console.log(typeof(popularNumber));   //num
 
 // ager ik num or ik string raha ga to typeof ma string ai ga 
+// var value1 = 9;
+// var value2 = "20"
+// console.log(value1+value2);
+
 // var popularNumber = 2 + "2";
 // console.log(typeof(popularNumber));  //string
 
 // subtraction
-var popularNumber = 12 - 24;
-console.log(popularNumber);
+// var popularNumber = 12 - 24;
+// console.log(popularNumber);
+
+// var num = 10;
+// var popularNumber = num + 200;
+// console.log(popularNumber);
+// console.log(typeof(popularNumber));
+
+// ager ik + or ik num raa ga to ya conacte karay ga
+// concadinations
+// let num = 9;
+// let nums = "10"
+// console.log(num+nums);
+
+// let num = 9;
+// let nums =+ "10"
+// console.log(num+nums);
